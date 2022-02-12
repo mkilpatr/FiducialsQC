@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <OGPMEASUREMENT>
+        <ID>mkilpatr</ID>
+        <INSTITUTION>UCSB</INSTITUTION>
+        <PLACEMENT_ANGLE>
+            <FIDUCIAL1>89.93387043338578</FIDUCIAL1>
+            <FIDUCIAL2>89.93387043338578</FIDUCIAL2>
+        </PLACEMENT_ANGLE>
+        <PLACEMENT_POSITION>
+            <X>-0.03447336161159362</X>
+            <Y>0.017053953770215458</Y>
+        </PLACEMENT_POSITION>
+        <HEIGHTS>
+            <MEAN>1.6589999999999998</MEAN>
+            <MIN>0.3069999999999997</MIN>
+            <MAX>0.2630000000000001</MAX>
+        </HEIGHTS>
+        <GRADE>RED</GRADE>
+        <COMMENT>The mean heights of the module in position P2 are YELLOW. 
+The minimum difference in height of the module in position P2 is RED. 
+The maximum difference in height of the module in position P2 is RED. 
+The angle of the sensor in position P2 is GREEN. 
+The placement of the sensor in position P2 is GREEN. 
+The FINAL rating of the module in position P2 is RED.
+</COMMENT>
+    </OGPMEASUREMENT>
+</ROOT>
