@@ -1,0 +1,3 @@
+[submodule "hexmap"]
+	path = hexmap
+	url = ssh://git@gitlab.cern.ch:7999/mkilpatr/hexmap.git
