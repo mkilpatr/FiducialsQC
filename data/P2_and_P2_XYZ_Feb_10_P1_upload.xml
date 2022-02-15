@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ROOT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <OGPMEASUREMENT>
-        <ID>mkilpatr</ID>
+        <ID>testID</ID>
         <INSTITUTION>UCSB</INSTITUTION>
         <PLACEMENT_ANGLE>
             <FIDUCIAL1>90.62706260106998</FIDUCIAL1>
